@@ -235,7 +235,7 @@ export default function Index({ tables, auth }) {
                                     {confirmationData.reservation_time}
                                 </p>
                                 <p>
-                                    <strong>จ่ายเงิน:</strong>
+                                    <strong>จ่ายเงิน: 100 บาท</strong>
                                     <img src='storage\images\QR_code.svg' alt="" />
                                 </p>
                             </div>
