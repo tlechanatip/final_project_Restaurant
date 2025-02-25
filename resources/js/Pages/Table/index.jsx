@@ -234,6 +234,10 @@ export default function Index({ tables, auth }) {
                                     <strong>Time:</strong>{' '}
                                     {confirmationData.reservation_time}
                                 </p>
+                                <p>
+                                    <strong>จ่ายเงิน:</strong>
+                                    <img src='storage\images\QR_code.svg' alt="" />
+                                </p>
                             </div>
 
                             <div className="flex space-x-4">
